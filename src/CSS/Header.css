@@ -1,0 +1,15 @@
+header {
+    color: whitesmoke;
+    margin: -8px;
+    background-color: #0F8495;
+    box-sizing: border-box;
+    font-size: larger;
+    padding: 35px 0px 40px 10px;
+    text-align: center;
+}
+
+span {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
