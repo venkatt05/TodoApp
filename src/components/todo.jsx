@@ -7,7 +7,7 @@ export default function Todo() {
     const [data, setData] = useState([]);
 
     function deleteTodo(e) {
-        const newData = data.filter((value, index) => index != e.target.id);
+        const newData = data.filter((value, index) => index !== e.target.id);
         setData([...newData]);
     }
 
