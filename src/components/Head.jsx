@@ -4,7 +4,7 @@ import "../CSS/Header.css";
 export default function Head() {
   return (
     <header>
-      <span>The Todo</span>
+      <span>The TODO</span>
     </header>
   );
 }
